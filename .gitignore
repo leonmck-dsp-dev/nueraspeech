@@ -18288,3 +18288,4 @@ DATA/Dysarthria torgo /M01/Session1/alignment.txt
 DATA/Dysarthria torgo /M01/Notes/M01.csv
 DATA/Dysarthria torgo /M01/Notes/Analysis of M01 transcribte data 1-100.doc
 .vscode/settings.json
+*.wav
