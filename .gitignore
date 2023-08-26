@@ -18289,3 +18289,9 @@ DATA/Dysarthria torgo /M01/Notes/M01.csv
 DATA/Dysarthria torgo /M01/Notes/Analysis of M01 transcribte data 1-100.doc
 .vscode/settings.json
 *.wav
+speech_commands_v0.02.tar.gz
+SpeechCommands/speech_commands_v0.02/_background_noise_/README.md
+SpeechCommands/speech_commands_v0.02/LICENSE
+SpeechCommands/speech_commands_v0.02/README.md
+SpeechCommands/speech_commands_v0.02/testing_list.txt
+SpeechCommands/speech_commands_v0.02/validation_list.txt
