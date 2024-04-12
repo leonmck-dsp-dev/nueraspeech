@@ -18296,3 +18296,8 @@ SpeechCommands/speech_commands_v0.02/README.md
 SpeechCommands/speech_commands_v0.02/testing_list.txt
 SpeechCommands/speech_commands_v0.02/validation_list.txt
 *.m4a
+.idea/vcs.xml
+.idea/nueraspeech.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
